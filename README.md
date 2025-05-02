@@ -5,7 +5,8 @@
 Supply Chain Tracker is a decentralized application (DApp) built using blockchain technology to ensure transparency and traceability of products throughout their lifecycle. This project leverages smart contracts on the Ethereum blockchain to record and track product information, ensuring that product data is immutable, transparent, and traceable.
 
 ## Screenshot
-![screenshot](assets/screenshot.png)
+![Screenshot](screenshot/screenshot.png)
+
 
 ## Features
 - **Add Product:** Add new products to the system with details such as name and description.
